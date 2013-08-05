@@ -1,0 +1,43 @@
+id = [""RTO"", this] call compile preprocessFileLineNumbers ""krauseOrbat\BluFor.sqf"";
+group this setGroupId [""Uniform 1'6""];
+this assignTeam ""RED"";
+this setVariable [""CLY_removedead"",false,true];
+nomap = [this] execVM ""tinLoadout\remove_map.sqf"";
+
+
+player="PLAY CDG";
+
+COP
+init="id = [""COP"", this] call compile preprocessFileLineNumbers ""scripts\playerspawn.sqf"";group this setGroupId [""Cop XX - YYYY""];";
+
+ESU
+init="id = [""ESU"", this] call compile preprocessFileLineNumbers ""scripts\playerspawn.sqf"";group this setGroupId [""ESU XX - YYYY""];";
+
+CIV
+init="id = [""CIV"", this] call compile preprocessFileLineNumbers ""scripts\playerspawn.sqf"";group this setGroupId [""CIV XX - YYYY""];";
+
+Cop-1 (Internal Affairs - Admin Only)
+Cop-2 (Untrained)
+Cop-3 (Untrained)
+Cop-4 (Untrained)
+Cop-5 (Untrained)
+Cop-6 (K-9)
+Cop-7 (K-9)
+Cop-8 (Patrol)
+Cop-9 (Patrol)
+Cop-10 (Patrol)
+Cop-11 (Detective)
+Cop-12 (Detective)
+Cop-13 (Vice)
+Cop-14 (Vice)
+Cop-15 (Sheriff)
+Cop-16 (Sheriff Deputy)
+Cop-17 (Sheriff Deputy)
+Cop-18 (Sheriff Deputy)
+Cop-19 (State Trooper)
+Cop-20 (State Trooper)
+Cop-21 (State Trooper)
+Cop-22 (Swat)
+Cop-23 (Swat)
+Cop-24 (Swat)
+Cop-25 (Swat)

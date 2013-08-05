@@ -1,0 +1,4 @@
+50 Slots
+CIVS =
+ESU = 4
+COPS = 

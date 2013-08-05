@@ -1,0 +1,6 @@
+This mission is based off of the source code provided by Sahrani life, as are many of these life missions. We claim no ownership of the code, nor can anyone else as agreed to in the ToS Bohemia Interactive owns all the codes and scripts created. No matter how many fake copyrights you slap on "YOUR" property it still doesn't make it yours...
+
+This version is heavly modified by Sky high gaming development team (BloodSport). You may do with it as you wish simply show a mutual level of respect for the people that have spent countless hours working on the code and add your community name below ours so people can find the origins of the code.
+
+Sky High gaming [http://skyhighgaming.enjin.com] -BloodSport 
+AIL [http://armaislandlife.enjin.com/] -BloodSport/ProPilot/AIL DEV TEAM 

@@ -1,0 +1,1 @@
+while {true} do {disableuserinput true;hint "Why even hack bro?"};
